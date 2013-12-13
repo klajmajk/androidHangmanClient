@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hangman Client</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_game">Game Activity</string>
+    <string name="textNewGame">New Game</string>
+    <string name="textGuess">Guess</string>
+
+</resources>
